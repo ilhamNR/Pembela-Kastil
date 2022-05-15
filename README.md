@@ -1,7 +1,3 @@
-# Tower-Defense
+# Pembela Kastil
 
-nama : Syifa Ain'nur Manzila
-id agate : 315
-
-2 jenis build : 1 win condition
-                2 lose condition
+Game 2D berbasis Unity
